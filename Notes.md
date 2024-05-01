@@ -26,4 +26,5 @@ Since I do not want to populate the README with unnecessary information, I will 
 - Simbad (with example): https://simbad.cds.unistra.fr/simbad/sim-id?Ident=gaia+dr3+4658032774371311104&submit=submit+id
 - Gramian Angular Difference Field from Maarten: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
 - Gramian Field Examples: https://pyts.readthedocs.io/en/stable/auto_examples/index.html#bag-of-words-transformation
+- Another GRAM tutorial: https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3
 - Classification Algorithms for Gaia Presentation: https://www.mpia.de/3434350/KS_ELSA08.pdf

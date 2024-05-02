@@ -7,3 +7,4 @@ pyarrow
 astroquery
 astropy
 scipy==1.13.0
+pyts

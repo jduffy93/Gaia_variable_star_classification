@@ -7,7 +7,7 @@ Since I do not want to populate the README with unnecessary information, I will 
 2. Query the database for variability data/epoch photometry (Cepheids). ✅
 3. Plot some light curves/phase diagrams to check. ✅
 4. Consider some preprocessing (the data was already preprocessed before it was saved in the Gaia DR3 tables, and the classification was done usign this data, so maybe keep it as it is?)
-5. Read up on Gramian Angular Difference Fields, and see if light curves could be used with it.
+5. Read up on Gramian Angular Difference Fields, and see if light curves could be used with it. ✅
 6. Repeat for a second variability type (RR Lyrae)
 7. Combine epoch and magnitude data for 200 stars of each variability type into one dataframe, to prepare for ml (it is currently in an Astropy.table)
 

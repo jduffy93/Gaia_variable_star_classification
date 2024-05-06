@@ -1,5 +1,6 @@
 # User created files
-data/ 
+data/
+metrics/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

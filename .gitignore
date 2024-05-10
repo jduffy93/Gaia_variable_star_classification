@@ -1,6 +1,7 @@
 # User created files
 data/
 metrics/
+light_curve/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
